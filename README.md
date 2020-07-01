@@ -12,3 +12,9 @@ In this project I developed the a simple banking system with the following capab
   2.6. Exit program
 0. Exit program
 
+ 1. List item 1.
+  2. List item 2.
+    1. Sublist item 1.
+    2. Sublist item 2.
+    3. Sublist item 3.
+  3. List item 3.
