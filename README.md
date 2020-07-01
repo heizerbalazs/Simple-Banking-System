@@ -4,10 +4,9 @@ In this project I developed the a simple banking system with the following capab
 
 1. Create new account
 2. Log in:
-  1. Get balance
-  2. Deposite income
-  3. Transfer money
-  4. Close account
-  5. Log out
-  6. Exit program
-0. Exit program
+3. Get balance
+4. Deposite income
+5. Transfer money
+6. Close account
+7. Log out
+8. Exit program
