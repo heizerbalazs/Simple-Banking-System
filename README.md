@@ -1,6 +1,6 @@
 # Simple Banking System
 
-In this project I developed the a simple banking system, which handles accounts and transactions. In the current implementation I use SQLite as the persistence layer and the application has a command line interface with the following capabilities:
+In this project I developed a simple banking system, which handles accounts and transactions. In the current implementation I use SQLite as the persistence layer and the application has a command line interface with the following capabilities:
 
 1. Create new account
 2. Log in
