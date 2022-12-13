@@ -17,4 +17,4 @@ My model consist of three classes:
 
 1. **Account**: the instances of this class are stored in the database, and they encapsulates three pieces of information: cardnumber, pin, balance.
 2. **Bank**: the Bank object handles the operations related to accounts and sessions. I implemented Lhun's algorithm to check the validity of the card numbers and ensure that the new accounts get properly formatted numbers.
-3. **Session**: the Session object encapsulates the cardnumber and pin given by the users and the validity of the (cardnumber, pin) tuple. If the everithing is ok, then the user can access functionality like: get balance, deposite money, transfer money and close account. 
+3. **Session**: the Session object encapsulates the cardnumber and pin given by the users and the validity of the (cardnumber, pin) tuple. If everithing is ok, then the user can access functionalities like: get balance, deposite money, transfer money and close account. 
